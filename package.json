@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "node": "^14.8.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "nodemon": "^2.0.4",
+    "readline-sync": "^1.4.10",
+    "telegraf": "^3.38.0",
+    "woocommerce-api": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
